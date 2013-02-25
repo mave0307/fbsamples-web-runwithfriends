@@ -1,0 +1,34 @@
+{
+  "title": "Run With Friends",
+  "platform_features": [
+    {
+      "feature_group": "graph_api"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "html"
+    },
+    {
+      "name": "python"
+    }
+  ],
+  "sdks": [
+    {
+      "name": "javascript",
+      "version": "671604"
+    },
+    {
+      "name": "php",
+      "version": "3.0"
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "screenshots/sample_web_runwithfriends_1.png"
+    }
+  ],
+  "tutorial": "https://developers.facebook.com/docs/samples/canvas/",
+  "featured": false,
+  "deprecated": false
+}
